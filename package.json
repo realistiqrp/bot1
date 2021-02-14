@@ -1,0 +1,16 @@
+{
+  "name": "realistiqrp-bot",
+  "version": "1.5.6",
+  "description": "Bot for bug reports, suggestions and some commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RealistiqRP#3029",
+  "license": "ISC",
+  "dependencies": {
+    "discord-fivem-api": "^1.0.1",
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.2"
+  }
+}
